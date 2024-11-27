@@ -1,0 +1,49 @@
+body {
+    font-family: Helvetica, sans-serif;
+    background-color: rgb(72, 0, 100);
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+    background-color: rgb(72, 0, 100);
+}
+
+.input-text {
+    font-size: 32px;
+    margin: 10px;
+}
+
+.select-box {
+    font-size: 32px;
+    margin: 10px;
+}
+
+button {
+    font-size: 32px;
+    margin: 10px;
+}
+
+.element-image {
+    width: 50%;
+    display: block;
+    margin: 20px auto;
+}
+
+.corner-image {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    width: 100px;
+}
+
+#content {
+    text-align: center;
+    margin-top: 50px;
+}
+
+a {
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+}
